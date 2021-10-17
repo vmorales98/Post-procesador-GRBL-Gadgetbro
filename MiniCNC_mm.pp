@@ -62,7 +62,6 @@ VAR Z_HOME_POSITION = [ZH|A|Z|1.4]
  
 begin HEADER
  
-"T1M6"
 "G17"
 "G21"
 "G0 [ZH]"
